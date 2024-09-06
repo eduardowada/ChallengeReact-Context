@@ -1,0 +1,38 @@
+/* Estilização para o corpo da página */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+/* Estilização para o container principal */
+div {
+  padding: 20px;
+  text-align: center;
+}
+
+/* Botões */
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  margin: 5px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+/* Botões ao serem pressionados */
+button:hover {
+  background-color: #45a049;
+}
+
+/* Estilização para o Toolbar */
+.toolbar {
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px auto;
+  width: 60%;
+}
